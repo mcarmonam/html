@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Pentágono</title>
+	<link rel="stylesheet" type="text/css" href="../CSS/aspecto.css">
+	<meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+</head>
+<body>
+<div class="text">
+¡Hola soy un Pentagono regular!. Para calcular mi área debes indicar cuánto mide uno de mis lados y mi apotema.
+</div>	
+<div class="div4">
+	<img class="imag-form" src="../imagenes/pentagono.png">	
+</div>
+
+<div class="text">
+	<form action="../resultados/repen.php" method="get">
+		
+		<label for="nombre">Lado: </label>
+        	<input type="number" step="0.01" name="lado" id="nombre" required=""> cm.</input><br>
+       	
+        <label for="nombre2">Apotema: </label>
+        	<input type="number" step="0.01" name="apotema" id="nombre2" required=""> cm.</input><br>	
+        	<input type="submit" value="Enviar">
+    </form>
+ </div>
+
+</body>
+</html>

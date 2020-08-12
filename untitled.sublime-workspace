@@ -1,0 +1,514 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ph",
+				"php"
+			],
+			[
+				"h",
+				"h4\tTag"
+			],
+			[
+				"b",
+				"border-top\tproperty"
+			],
+			[
+				"a",
+				"apotema"
+			],
+			[
+				"n",
+				"nombre"
+			],
+			[
+				"id",
+				"id\tAttr"
+			],
+			[
+				"la",
+				"lado"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"formularios"
+			],
+			[
+				"op",
+				"opcion"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"im",
+				"imag-form"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"bor",
+				"border-width\tproperty"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1663,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "formularios/pentagono.html",
+			"settings":
+			{
+				"buffer_size": 880,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "formularios/hexagono.html",
+			"settings":
+			{
+				"buffer_size": 877,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resultados/rehex.php",
+			"settings":
+			{
+				"buffer_size": 366,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"x",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"xd",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"stop",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"xde",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"de",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/opt/lampp/htdocs/PHP",
+		"/opt/lampp/htdocs/PHP/CSS",
+		"/opt/lampp/htdocs/PHP/formularios",
+		"/opt/lampp/htdocs/PHP/resultados"
+	],
+	"file_history":
+	[
+		"/opt/lampp/htdocs/PHP/formularios/trapecio.html",
+		"/opt/lampp/htdocs/PHP/resultados/retra.php",
+		"/opt/lampp/htdocs/PHP/formularios/hexagono.html",
+		"/opt/lampp/htdocs/PHP/resultados/rehex.php",
+		"/opt/lampp/htdocs/PHP/formularios/pentagono.html",
+		"/opt/lampp/htdocs/PHP/resultados/repen.php",
+		"/opt/lampp/htdocs/PHP/resultados/rerom.php",
+		"/opt/lampp/htdocs/PHP/formularios/rombo.html",
+		"/opt/lampp/htdocs/PHP/formularios/rectangulo.html",
+		"/opt/lampp/htdocs/PHP/resultados/rerec.php",
+		"/opt/lampp/htdocs/PHP/formularios/triangulo.html",
+		"/opt/lampp/htdocs/PHP/resultados/retri.php",
+		"/opt/lampp/htdocs/PHP/formularios/circulo.html",
+		"/opt/lampp/htdocs/PHP/resultados/recir.php",
+		"/opt/lampp/htdocs/PHP/resultados/recua.php",
+		"/opt/lampp/htdocs/PHP/formularios/cuadrado.html",
+		"/opt/lampp/htdocs/PHP/CSS/aspecto.css",
+		"/opt/lampp/htdocs/PHP/resultados/recua.html",
+		"/opt/lampp/htdocs/PHP/resil/resulCu.html",
+		"/opt/lampp/htdocs/PHP/index.php",
+		"/opt/lampp/htdocs/PHP/formularios/resulCu.html",
+		"/opt/lampp/htdocs/PHP/resultado/resulCu.html",
+		"/opt/lampp/htdocs/PHP/back/form.php",
+		"/opt/lampp/htdocs/PHP/untitled.sublime-project",
+		"/opt/lampp/htdocs/PHP/.vscode/launch.json",
+		"/home/martin/Hola.java"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"div1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141,
+								141
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 666.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "formularios/pentagono.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 282.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "formularios/hexagono.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 877,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 279.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resultados/rehex.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								280,
+								280
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"13":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"14":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"16":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"17":
+				{
+					"group": 0,
+					"index": 2
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

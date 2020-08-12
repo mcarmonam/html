@@ -1,0 +1,67 @@
+	
+	h1{
+		color: pink;
+		text-align: center;
+	}
+
+	.cuadro-theme{
+		padding:12px;
+		background-color: yellow;
+		line-height:5.4;
+	}
+
+	form {
+   		 width: 1230px;
+   		
+	}
+
+	form label {
+    	display: inline-block;
+    	width: 100px;
+	}
+
+	form input {
+    	display: inline-block;
+    	width: 150px;
+    	margin-bottom: 15px;
+	}
+
+	.text{
+		text-align: center;
+	}
+
+	.imag-form {
+		border-color: blue;
+		border-width: 10px;
+		border-style: solid;
+		border-radius: 40%;
+		width: 200px;
+		display:block;
+		margin:auto;		
+	}
+
+	.div1 {
+		background-color: silver; 
+	}
+	.div3 {
+		background-color: black; 
+	}
+	.div4 {
+		background-color: brown; 
+	}
+	.div5 {
+		background-color: orange; 
+	}
+	.div6 {
+		background-color: purple; 
+	}
+	.div7 {
+		background-color: yellow; 
+	}
+	.div8 {
+		background-color: red; 
+	}
+	.div2 {
+		background-color: green; 
+	}
+

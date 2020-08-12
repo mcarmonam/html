@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Trapecio</title>
+	<link rel="stylesheet" type="text/css" href="../CSS/aspecto.css">
+	<meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+</head>
+<body>
+<div class="text">
+¡Hola soy un trapecio!. Para calcular mi área debes indicar cuánto mide mi base mayor, base menor y mi altura.
+</div>	
+<div class="div1">
+	<img class="imag-form" src="../imagenes/trapecio.jpeg">	
+</div>
+
+<div class="text">
+	<form action="../resultados/retra.php" method="get">
+		
+		<label for="nombre">Base mayor: </label>
+        	<input type="number" step="0.01" name="mayor" id="nombre" required=""> cm.</input><br>
+       	
+        <label for="nombre2">Base menor: </label>
+        	<input type="number" step="0.01" name="menor" id="nombre2" required=""> cm.</input><br>	
+
+         <label for="nombre3">Altura: </label>
+        	<input type="number" step="0.01" name="altura" id="nombre3" required=""> cm.</input><br>		
+        	<input type="submit" value="Enviar">
+    </form>
+ </div>
+
+</body>
+</html>
